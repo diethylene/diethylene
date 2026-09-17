@@ -19,7 +19,7 @@
 <h4>Frontend tech/libraries:</h4>
 
 ```yaml
-- ["RxJS", "React Hook Form", "Redux", "SASS", "TailwindCSS", "ThreeJS", "Web3.js", "Ethers.js"]
+- ["RxJS", "NgRx", "Redux", "SASS", "React Hook Form", "TailwindCSS", "ThreeJS", "Web3.js", "Ethers.js"]
 ```
 
 
